@@ -1,6 +1,3 @@
-[submodule "lib/divyarepo"]
-	path = lib/divyarepo
-	url = https://github.com/Prasasd/ansible.git
-[submodule "lib/ansible"]
-	path = lib/ansible
+[submodule "ansible"]
+	path = ansible
 	url = https://github.com/Prasasd/ansible.git
